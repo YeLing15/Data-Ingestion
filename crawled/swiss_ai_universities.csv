@@ -1,0 +1,43 @@
+Name of University/College;Name of Course;Course Code;Degree;Total Semesters;Total Credits per Semester;Total Credits;Subjects per Semester;Online/Offline;Teaching Language;Course Fee
+ETH Zurich;Master in Data Science;DS-ETH;Master;4;30;120;Data Science Lab, Machine Learning, Big Data;Offline;English;CHF 1,298 per semester
+University of Zurich;Bachelor in Computer Science;CS-UZH;Bachelor;6;30;180;Programming, Algorithms, Databases;Offline;German;CHF 720 per semester
+EPFL;Master in Computer Science;CS-EPFL;Master;4;30;120;Advanced Algorithms, AI, Software Engineering;Offline;English;CHF 1,266 per semester
+University of Geneva;Master in Artificial Intelligence;AI-UNIGE;Master;4;30;120;AI Ethics, Neural Networks, Robotics;Offline;English;CHF 1,000 per semester
+University of Lausanne;Bachelor in Data Science;DS-UNIL;Bachelor;6;30;180;Statistics, Data Mining, Machine Learning;Offline;French;CHF 580 per semester
+University of Basel;Master in Computer Science;CS-UNIBAS;Master;4;30;120;Software Development, Data Structures, AI;Offline;English;CHF 850 per semester
+University of Bern;Bachelor in Artificial Intelligence;AI-UNIBE;Bachelor;6;30;180;Machine Learning, Robotics, AI Ethics;Offline;German;CHF 750 per semester
+University of St. Gallen;Master in Data Science;DS-HSG;Master;4;30;120;Data Analytics, Big Data, Machine Learning;Offline;English;CHF 1,200 per semester
+University of Fribourg;Bachelor in Computer Science;CS-UNIFR;Bachelor;6;30;180;Programming, Databases, Algorithms;Offline;French/German;CHF 600 per semester
+University of Neuchâtel;Master in Machine Learning;ML-UNINE;Master;4;30;120;Neural Networks, Deep Learning, AI;Offline;English;CHF 900 per semester
+ZHAW Zurich University of Applied Sciences;Bachelor in Data Science;DS-ZHAW;Bachelor;6;30;180;Data Mining, Statistics, Machine Learning;Offline;German;CHF 700 per semester
+HES-SO University of Applied Sciences and Arts Western Switzerland;Master in Artificial Intelligence;AI-HES;Master;4;30;120;AI Ethics, Robotics, Neural Networks;Offline;French;CHF 800 per semester
+Lucerne University of Applied Sciences and Arts;Bachelor in Computer Science;CS-HSLU;Bachelor;6;30;180;Programming, Databases, Algorithms;Offline;German;CHF 650 per semester
+University of Applied Sciences and Arts Northwestern Switzerland;Master in Data Science;DS-FHNW;Master;4;30;120;Data Analytics, Big Data, Machine Learning;Offline;German;CHF 850 per semester
+University of Applied Sciences of Eastern Switzerland;Bachelor in Artificial Intelligence;AI-FHO;Bachelor;6;30;180;Machine Learning, Robotics, AI Ethics;Offline;German;CHF 700 per semester
+University of Applied Sciences and Arts of Southern Switzerland;Master in Machine Learning;ML-SUPSI;Master;4;30;120;Neural Networks, Deep Learning, AI;Offline;Italian;CHF 900 per semester
+Kalaidos University of Applied Sciences;Bachelor in Data Science;DS-KALAIDOS;Bachelor;6;30;180;Data Mining, Statistics, Machine Learning;Online;German;CHF 600 per semester
+Fernfachhochschule Schweiz;Master in Artificial Intelligence;AI-FFHS;Master;4;30;120;AI Ethics, Robotics, Neural Networks;Online;German;CHF 800 per semester
+University of Applied Sciences and Arts Western Switzerland;Bachelor in Computer Science;CS-HES;Bachelor;6;30;180;Programming, Databases, Algorithms;Offline;French;CHF 700 per semester
+University of Applied Sciences and Arts Northwestern Switzerland;Bachelor in Data Science;DS-FHNW;Bachelor;6;30;180;Data Mining, Statistics, Machine Learning;Offline;German;CHF 700 per semester
+University of Applied Sciences of Eastern Switzerland;Master in Artificial Intelligence;AI-FHO;Master;4;30;120;AI Ethics, Robotics, Neural Networks;Offline;German;CHF 850 per semester
+University of Applied Sciences and Arts of Southern Switzerland;Bachelor in Machine Learning;ML-SUPSI;Bachelor;6;30;180;Neural Networks, Deep Learning, AI;Offline;Italian;CHF 700 per semester
+Kalaidos University of Applied Sciences;Master in Data Science;DS-KALAIDOS;Master;4;30;120;Data Analytics, Big Data, Machine Learning;Online;German;CHF 900 per semester
+Fernfachhochschule Schweiz;Bachelor in Artificial Intelligence;AI-FFHS;Bachelor;6;30;180;Machine Learning, Robotics, AI Ethics;Online;German;CHF 600 per semester
+University of Zurich;Master in Computer Science;CS-UZH;Master;4;30;120;Advanced Algorithms, AI, Software Engineering;Offline;English;CHF 1,200 per semester
+ETH Zurich;Bachelor in Data Science;DS-ETH;Bachelor;6;30;180;Statistics, Data Mining, Machine Learning;Offline;English;CHF 1,298 per semester
+EPFL;Bachelor in Computer Science;CS-EPFL;Bachelor;6;30;180;Programming, Algorithms, Databases;Offline;English;CHF 1,266 per semester
+University of Geneva;Bachelor in Artificial Intelligence;AI-UNIGE;Bachelor;6;30;180;AI Ethics, Neural Networks, Robotics;Offline;English;CHF 1,000 per semester
+University of Lausanne;Master in Data Science;DS-UNIL;Master;4;30;120;Data Analytics, Big Data, Machine Learning;Offline;French;CHF 580 per semester
+University of Basel;Bachelor in Computer Science;CS-UNIBAS;Bachelor;6;30;180;Programming, Databases, Algorithms;Offline;English;CHF 850 per semester
+University of Lucerne;Master in Data Science;DS-UNILU;Master;4;30;120;Data Analytics, Big Data, Machine Learning;Offline;German;CHF 1,000 per semester
+University of Applied Sciences and Arts of Southern Switzerland;Bachelor in Computer Science;CS-SUPSI;Bachelor;6;30;180;Programming, Databases, Algorithms;Offline;Italian;CHF 700 per semester
+University of Applied Sciences and Arts Northwestern Switzerland;Master in Machine Learning;ML-FHNW;Master;4;30;120;Neural Networks, Deep Learning, AI;Offline;German;CHF 850 per semester
+University of Applied Sciences of Eastern Switzerland;Bachelor in Data Science;DS-FHO;Bachelor;6;30;180;Data Mining, Statistics, Machine Learning;Offline;German;CHF 700 per semester
+Kalaidos University of Applied Sciences;Master in Artificial Intelligence;AI-KALAIDOS;Master;4;30;120;AI Ethics, Robotics, Neural Networks;Online;German;CHF 900 per semester
+Fernfachhochschule Schweiz;Bachelor in Machine Learning;ML-FFHS;Bachelor;6;30;180;Neural Networks, Deep Learning, AI;Online;German;CHF 600 per semester
+University of Zurich;Bachelor in Data Science;DS-UZH;Bachelor;6;30;180;Statistics, Data Mining, Machine Learning;Offline;German;CHF 720 per semester
+ETH Zurich;Master in Computer Science;CS-ETH;Master;4;30;120;Advanced Algorithms, AI, Software Engineering;Offline;English;CHF 1,298 per semester
+EPFL;Master in Artificial Intelligence;AI-EPFL;Master;4;30;120;AI Ethics, Neural Networks, Robotics;Offline;English;CHF 1,266 per semester
+University of Geneva;Master in Data Science;DS-UNIGE;Master;4;30;120;Data Analytics, Big Data, Machine Learning;Offline;English;CHF 1,000 per semester
+University of Lausanne;Bachelor in Computer Science;CS-UNIL;Bachelor;6;30;180;Programming, Algorithms, Databases;Offline;French;CHF 580 per semester
+University of Basel;Master in Artificial Intelligence;AI-;;;;;;;;
