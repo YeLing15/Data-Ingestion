@@ -1,0 +1,19 @@
+Headers:
+Intelligent Interactive Systems and Physical Computing
+Areas of research
+Related units at the Computer Science Department:
+Related units at ETH:
+
+Paragraphs:
+Interactive artificially intelligent systems such as personalised robots, self-driving cars and AR/VR-based systems that co-exist and collaborate with humans are increasingly becoming part of our everyday reality. However, many scientific challenges must be overcome before such interactive agents can contribute to solutions to some of humanity’s most urgent problems, including urban congestion and mobility, rising healthcare costs, an aging society, technical literacy and digitisation, and climate change.
+
+digital design, embedded systems and security, human-computer interaction, Internet of Things, medical informatics, robotics, sensor networks, smart energy, systems biology, ubiquitous computing, wireless systems
+Srdjan Capkun Full Professor E-mail Website  system and network security, wireless security
+Stelian Coros Associate Professor E-mail Website  robotics, digital design, computational fabrication, animation, computer graphics, game development
+Markus Gross Full Professor E-mail Website  computer graphics, animation, physically based modeling, video processing, media technology, digital effects, digital fabrication, 3D printing
+Otmar Hilliges Full Professor E-mail Website  human-computer interaction, augmented reality, virtual reality, human robot interaction, input devices, machine perception
+Christian Holz Assistant Professor E-mail external page Website external page Apply for a position  virtual reality, healthcare, ubiquitous computing, embedded systems, haptics, human-computer interaction, physical prototyping, sensing, signal processing, predictive health
+Andreas Krause Full Professor E-mail Website  machine learning, data mining, optimization, learning systems, sensing, network analysis
+Marc Pollefeys Full Professor E-mail Website  computer vision, 3D modeling, robotic perception, computer graphics, machine learning
+April Yi Wang Assistant Professor E-mail external page Website  educational technology, human-computer interaction, artificial intelligence in education, collective intelligence and organizational technology, end-user programming, user interface for programming
+

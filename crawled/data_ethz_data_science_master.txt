@@ -1,0 +1,25 @@
+Headers:
+Master in Data Science
+Why study data science at ETH Zurich:
+Helpful information
+
+Paragraphs:
+IMPORTANT:
+The Master in Data Science regulations 2023 apply to students starting as of autumn semester 2023.
+Students, who have commenced their studies before autumn semester 2023, refer to the Download Master in Data Science regulations 2017 (PDF, 147 KB).
+Data science is a driving force of today's information age. The specialised ETH Master's programme in data science, offered in collaboration with the Department of Mathematics as well as the Department of Information Technology and Electrical Engineering, provides a high-quality education geared towards nurturing the next generation of data scientists. It is a two-year programme fully taught in English.
+Computers have fundamentally changed the way the world produces, manages, processes, and analyses data. In light of the continuous growth of data all around the globe, the question of how we can use data to gain valuable insights is more important than ever. How can we extract relevant information from massive amounts of data? In which way can computers learn from experience to make intelligent decisions? These questions are key to the specialised Master’s programme in data science.
+Research in the field of data science requires solid skills in managing and storing massive amounts of data as well as the ability to develop efficient mathematical algorithms for data analysis. These techniques are employed in complex applications in engineering and science.
+Part of the programme is the Data Science Laboratory, where students tackle specific and practical problems of interdisciplinary applications. In this course students engage in all tasks - from the process modelling to the implementation and validation of data science techniques.
+Compact and profound program: The specialised Master's programme in data science equips students with all relevant knowledge and skills while combining theoretical foundations with practical experience.  Personal choice of industry: Medicine, finance, or environment: data science is used in most fields and thus enables graduates of the programme to work in their industry of choice.
+High demand in the labour market: Regardless of the industry, most large companies have data scientists working for or with them (e.g. banking, insurance, pharma, telecommunications).
+For prospect students:
+Download Brochure "Master in Data Science" (PDF, 11.9 MB)
+- Department and faculty - Professor and student voices - Study programme - Future prospects
+For current students:
+Download Study Guide "Master in Data Science" (PDF, 178 KB)
+- General information - Grading system - Programme structure - Admission
+In addition to the full-time Master's programme, the Department of Computer Science also offers a continuing education programme for professionals:
+DAS in Data Science
+Contact
+Forms and documents

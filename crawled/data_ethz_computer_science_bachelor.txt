@@ -1,0 +1,29 @@
+Headers:
+Bachelor's Programme
+Overview
+First academic year
+First semester:
+Second semester:
+
+Second academic year
+Third semester:
+Fourth semester:
+Third academic year
+Further information
+
+Paragraphs:
+ETH Zurich provides a broad, high-quality computer science bachelor's degree programme that serves as an excellent foundation for future work in computer science or one of its many associated fields. It teaches an essential knowledge of mathematics and electrical engineering as well as the basic principles of computer science. In addition to core subjects such as systems & software engineering, information & data processing, and theoretical computer science, students can choose various other electives according to their personal interests. The language of instruction at the beginning of the study programme is German. Starting from the second year, courses are increasingly taught in English.
+During the first year of study, students work on establishing a sound basis in mathematics, programming, and algorithmics while learning the basic principles of computer systems. All first-year courses are compulsory and a total of 56 credits are earned.
+
+During the second year, students are taught important theoretical and methodological principles within core areas of computer science and a total of 62 credits are earned.
+
+In their third year, Bachelor's students can choose two out of three areas for specialisation: systems & software engineering, information & data processing and theoretical computer science. A total of 62 credits are earned.
+Website for prospective students (in German)
+For prospect students:
+Download Brochure "Studium Informatik" (PDF, 1.3 MB)
+- Department and faculty - Subject areas - Perspectives on the programme - Living and studying in Zurich
+For current students:
+Download Study Guide "Studium Informatik" (PDF, 244 KB)
+- Prerequisites - Credits system - Subject categories - Programme structure
+Contact
+Forms and documents

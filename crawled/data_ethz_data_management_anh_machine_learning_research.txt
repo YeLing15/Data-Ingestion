@@ -1,0 +1,32 @@
+Headers:
+Data Management and Machine Learning
+Areas of research
+Related units at the Computer Science Department:
+Related units at ETH:
+
+Paragraphs:
+One of the central challenges of our time is managing and gaining insights from massive amounts of data through a new research paradigm that is often referred to as “data science”. At its core, data science is mainly composed of data management and machine learning – two areas that are well-represented in the department with substantial interaction and collaboration between researchers. The faculty’s research covers all aspects of the data value chain: the generation and acquisition of data, data organisation and storage, data processing, and learning from data making predictions and decisions.
+
+artificial intelligence, big data, cloud computing, data analytics, databases, data mining, data science, enterprise computing, machine learning, medical informatics, natural language understanding
+Gustavo Alonso Full Professor E-mail Website  databases, distributed systems, enterprise computing, system aspects of programming languages, multicore, FPGAs
+Valentina Boeva Assistant Professor E-mail external page Website  bioinformatics, biomedical data analysis algorithms, computational genomics, epigenetics, cancer research, machine learning
+Ryan Cotterell Assistant Professor E-mail external page Website  natural language processing, computational linguistics, machine learning
+Niao He Assistant Professor E-mail Website  large-scale optimization, machine learning, reinforcement learning, probabilistic inference
+Torsten Hoefler  Full Professor E-mail Website  efficient and secure datacenter architecture and networking, cloud computing, climate simulations, large-scale machine learning, quantum and high-performance computing
+Thomas Hofmann Full Professor E-mail Website  machine learning, natural language understanding, information retrieval, user analytics
+Ana Klimovic Assistant Professor E-mail Website  cloud computing, operating systems, distributed systems, storage systems, computer architecture
+Andreas Krause Full Professor E-mail Website  machine learning, artificial intelligence, reinforcement learning, probabilistic inference
+Marc Pollefeys Full Professor E-mail Website  computer vision, 3D modeling, robotic perception, computer graphics, machine learning
+Markus Püschel Full Professor E-mail Website  program generation, signal processing, performance optimisation, program analysis, domain-specific languages, machine learning, FPGAs
+Gunnar Rätsch Full Professor E-mail Website  biomedical data science, machine learning, computational genomics, cancer research
+Timothy Roscoe Full Professor E-mail Website  operating systems, distributed systems, networking, enterprise computing
+Mrinmaya Sachan Assistant Professor E-mail external page Website  machine learning for natural language processing, knowledge discovery and reasoning
+Bernhard Schölkopf Full Professor E-mail Website  machine learning, causal inference, applications in the sciences
+
+David Steurer Associate Professor E-mail external page Website  complexity theory, approximation algorithms, convex optimization, parameter estimation, tensor methods
+
+Zhendong Su Full Professor E-mail Website  compilers, programming methodologies and tools, testing, analysis, verification, software security, machine learning, education technologies
+Martin Vechev Full Professor E-mail Website  automated reasoning, machine learning, safe artificial intelligence, security
+Julia Vogt Assistant Professor E-mail Website  medical data science, machine learning, data mining, computational biology
+Fanny Yang Assistant Professor E-mail Website  machine learning (theory and reliability), non-parametric and high-dimensional statistics, optimisation
+
