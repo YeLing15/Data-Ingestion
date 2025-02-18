@@ -1,9 +1,11 @@
-Headers:
+Đại học, Tin tuyển sinh
 Trường Đại học Phenikaa công bố 5 phương thức tuyển sinh đại học năm 2022
-
-Paragraphs:
 Trường Đại học Phenikaa công bố thông tin tuyển sinh năm 2022, theo đó Trường tuyển sinh 4942 chỉ tiêu cho 36 ngành/chương trình đào tạo với 05 phương thức xét tuyển.
+1. Mã trường: PKA
+2. Chỉ tiêu tuyển sinh: 4942
+3. Phương thức tuyển sinh
 Trong quá trình triển khai, Nhà trường sẽ xem xét và điều chỉnh linh động tỷ lệ chỉ tiêu giữa các phương thức cho phù hợp với tình hình thực tế.
+4. Điều kiện xét tuyển
 Quy định xét tuyển (không áp dụng đối với phương thức xét tuyển theo kết quả thi tốt nghiệp THPT năm 2022):
 Trong đó:
 4.1. Phương thức 1: Xét tuyển thẳng
@@ -42,7 +44,10 @@ Khối ngành Sức khỏe (áp dụng với ngành Kỹ thuật phục hồi ch
 Tiêu chí xét tuyển: Chấm điểm hồ sơ đánh giá năng lực theo mẫu quy định của Trường Đại học Phenikaa. Điểm xét tuyển lấy từ cao xuống thấp. Trường hợp thí sinh có điểm xét tuyển bằng nhau thì ưu tiên thí sinh có nguyện vọng (NV) cao hơn, nộp hồ sơ xét tuyển sớm hơn.
 4.5. Phương thức 5: Xét tuyển dựa vào kết quả thi đánh giá tư duy của Trường Đại học Bách khoa Hà Nội và kết quả thi đánh giá năng lực (ĐGNL) của Đại học Quốc gia Hà Nội.
 Điều kiện xét tuyển: thí sinh đủ tiêu chuẩn công nhận tốt nghiệp THPT của Bộ Giáo dục và Đào tạo, đồng thời đạt 1 trong 2 tiêu chí:
+5. Phương thức cộng điểm đối với chứng chỉ ngoại ngữ quốc tế
 Với các thí sinh có chứng chỉ tiếng Anh quốc tế (IELTS, TOEFL iBT, PTE Academic, và Cambridge) tương đương với IELTS từ 4.0 trở lên; chứng chỉ tiếng Trung Quốc từ HSK3 trở lên; chứng chỉ tiếng Hàn Quốc từ TOPIK3 trở lên; chứng chỉ tiếng Nhật từ N5 (JLBT) trở lên, Trường Đại học Phenikaa sẽ xét cộng điểm ưu tiên vào tổng điểm xét tuyển cho tất cả các ngành/chương trình đào tạo đăng ký xét tuyển với các mức như trong Bảng 1.
+6. Chỉ tiêu tuyển sinh, tổ hợp môn xét tuyển và học phí
+7. Quỹ học bổng và hỗ trợ học phí
 Quỹ học bổng dành cho sinh viên trúng tuyển đại học chính quy năm 2022 vào Trường Đại học Phenikaa được thành lập từ nhiều nguồn: Tài trợ từ Tập đoàn Phenikaa; tài trợ từ các công ty thành viên của Tập đoàn Phenikaa; tài trợ từ các doanh nghiệp, đối tác; tài trợ từ các cựu sinh viên thành đạt và các nguồn hợp pháp khác với tổng giá trị trên 50 tỷ đồng.
 7.1. Chính sách học bổng
 Áp dụng với thí sinh nhập học đợt 1 của các phương thức xét tuyển và nộp đầy đủ giấy tờ về Trường theo đúng quy định.
