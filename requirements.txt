@@ -7,6 +7,4 @@ nltk==3.9.1
 spacy==3.8.4
 pyvi==0.1.1
 selenium==4.28.1
-transformers==4.49.0
-torch==2.6.0
-tensorflow==2.18.0
+vncorenlp==1.0.3
